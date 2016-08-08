@@ -1,0 +1,24 @@
+_repo: The-Secret-Memoirs-of-the-Courts-of-Europe--William-II-Germany--Francis-Joseph-Austria-Hungar__12548
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fontenoy, marquise de
+    gutenberg_agent_id: '4420'
+    url: http://www.gutenberg.org/2009/agents/4420
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcsh 'Franz Joseph I, Emperor of Austria, 1830-1916'
+- !lcsh 'William II, German Emperor, 1859-1941'
+- GITenberg
+title: 'The Secret Memoirs of the Courts of Europe: William II, Germany; Francis Joseph,
+  Austria-Hungary, Volume I. (of 2)'
+url: http://www.gutenberg.org/ebooks/12548
